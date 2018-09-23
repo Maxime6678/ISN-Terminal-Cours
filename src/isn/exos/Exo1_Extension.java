@@ -11,7 +11,7 @@ public class Exo1_Extension {
 			if (c + 1 < tab.length) System.out.print(", ");
 		}
 		
-		for (int i = 0; i < 4; i++) {
+		for (int i = 1; i <= tab.length - 1; i++) {
 			int[] tab2 = {0, 0, 0 , 0, 0};
 			
 			tab2[0] = tab[tab.length - 1];
