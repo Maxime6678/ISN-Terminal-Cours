@@ -1,3 +1,4 @@
+package isn.exos;
 
 public class Exo1 {
 	
@@ -17,7 +18,7 @@ public class Exo1 {
 		}
 		tab[0] = memo;
 		
-		System.out.println("\n\nRésultat: ");
+		System.out.println("\n\nRÃ©sultat: ");
 		for (int b = 0; b < tab.length; b++) {
 			System.out.print(tab[b]);
 			if (b + 1 < tab.length) System.out.print(", ");
