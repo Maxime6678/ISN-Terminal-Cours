@@ -8,3 +8,7 @@ Décaler les valeurs d'une place d'un tableau donné
 **Exo1_Extension:**
 
 Décaler les valeurs de sorte que le premier index soit le dernier
+
+**Exo2:**
+
+Crée un compte a rebours avec un restart
