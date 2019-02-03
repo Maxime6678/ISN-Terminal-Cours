@@ -1,7 +1,5 @@
 package commons;
 
-import javafx.scene.layout.Pane;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

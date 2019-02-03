@@ -1,7 +1,6 @@
 package commons;
 
 import javax.swing.*;
-import javax.xml.soap.Text;
 import java.awt.*;
 
 public class Panel {
